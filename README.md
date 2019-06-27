@@ -1,2 +1,6 @@
 'READ ME for DAT 06-24' 
 'My name is Patrick Fotnaine'
+'Did this work'
+'This is better have worked..!'
+'Please work'
+'Damn it!'
